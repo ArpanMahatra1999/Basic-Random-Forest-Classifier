@@ -1,5 +1,4 @@
 # Basic-Random-Forest-Classifier
-
 Python code for recognizing digits and estimating accuracy using random forest classifier.
 
 Tools used:
